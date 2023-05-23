@@ -1,0 +1,20 @@
+body {
+    background: black;
+    padding: 20px;
+    color: white;
+    text-align: center
+}
+a{text-decoration: none }
+h1{
+color: grey;
+}
+profile img{
+  width: 50%;
+  border-radius: 50%;
+}
+.btn{display:block;
+color: black;
+padding:30px;
+background: white;
+margin: 16px;
+}
